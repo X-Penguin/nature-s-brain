@@ -13,7 +13,11 @@ Evidence for learning in this sense is often seen in the natural world, for inst
 
 This generalisation ability rests in recognising similarities between new and old problems, so as to combine the building blocks of past solutions to tackle the problem at hand. And as another model created by Watson and his colleagues showed last year, this kind of learning is also what a gene network does under the pressure of natural selection. The cost associated with making gene connections – proteins must be produced and energy expended – favours networks with fewer connections. Subsets of connections that work well together become bound tightly in blocks that themselves are only loosely associated. Just as our brains do, natural selection memorises partial solutions – and these building blocks are embedded in the structure of the gene network (arxiv.org/abs/1508.06854).
 
+这种举一反三的能力取决于认识到旧的问题和新的问题之间的相似之处，并且能够把以往问题的解决方案中的模块重新组合以解决新的问题。沃森和他的同事去年创建了一个新的模型表明，这也正是基因网络在自然选择压力下的学习方式。因为让不同的基因之间能够产生联系需要生成蛋白质并消耗能量，所以连线比较稀疏的网络更有优势。能够产生协同作用的基因之间会形成一个连接紧密的子网络，这些子网络模块之间形成稀疏相连，形成一个大的基因网络。和我们大脑一样，自然选择会记住这些部分解决方案（子网络模块），并把它们嵌入到基因网络中。（译者：可以把有待解决的大的问题拆分成一个个更小的问题去解决。一个连接紧密的子网络（模块）可以看作是某一个小问题的解决方案。把所有的小的解决方案组合起来，就是大问题的解决方案。在进化中，有些用来解决以往问题的子网络模块可以被重新组合，去解决新的问题。）
+
 This way of working allows genotypes to generate phenotypes that are both complex and flexible. “If past selection has shaped the building blocks well, it can make solving new problems look easy,” says Watson. Instead of merely making limbs longer or shorter, for example, evolution can change whether forelimbs and hindlimbs evolve independently or together. A single mutation that changes connections in the network can lengthen all four legs of a giraffe, or allow a bat to increase its wingspan without getting too leggy. And a feather or an eye needn’t be generated from scratch, but can evolve by mixing and matching building blocks that have served well in the past (see diagram).
+
+这种办法使得基因能够生成复杂而又灵活的性状（表现型）。
 
 This ability to learn needs no supernatural intervention – it is an inevitable product of random variation and selection acting on gene networks. “Far from being blind or dumb, evolution is very smart,” says Watson.
 
