@@ -54,9 +54,14 @@ Those infants may now grow up with a better grasp on the processes underlying th
 [[Quora] Humans make use of probabilistic methods all of the time, it’s just that we don’t really consider it. What we do have isn’t so much a superior reasoning ability but a reasoning ability that is optimized for our environment- which means the ability to understand language (hugely important and difficult), and ability to understand the world around us (even during the earliest stages of our development we have certain models of the world built in- an understanding of 3 dimensional space, for instance, and how to navigate through it in a somewhat optimal manner). http://qr.ae/TU1BjP]
 
 Eco-learning
+生态学习
 How does a forest develop the ability to share limited resources such as light and water? It’s a puzzle how such seemingly harmonious environments develop from a collection of individuals of different species. “There’s currently no general theory of how ecosystems evolve,” says Richard Watson at the University of Southampton, UK.
 
+一片森林是如何掌握共享有限的资源（如水和光照）的能力的呢？这些不同物种的个体是如何发展成和谐共处的自然环境是个迷。“目前没有关于生态系统是如何演化的的一般理论。”南安普敦大学的理查德·沃森（Richard Watson）说。
+
 By thinking about the genes within organisms as networks, Watson has shown that evolution can learn from the past to solve new problems of survival (see main story). But the same might apply to ecological networks, he thinks.
+
+通过把生物体内的基因看成网络结构，沃森表明进化能够通过对过去的学习来解决新的生存挑战。他认为生态网络中也可能存在类似的机制。
 
 There is a big difference: ecosystems must “learn” unaided by natural selection because it only favours fit individuals, not fit communities. Computer scientists have a way to model such “unsupervised” learning. Instead of guiding an evolving network towards a solution to a given problem, they use a rule that reinforces already common correlations. Such algorithms are known to efficiently discover categories, clusters and regularities in data sets. Working with his Southampton colleague Daniel Power and others, Watson has used them to model learning in the evolution of an ecological network (Biology Direct, vol 10, p 69).
 
