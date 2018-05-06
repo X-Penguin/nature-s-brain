@@ -65,6 +65,8 @@ By thinking about the genes within organisms as networks, Watson has shown that 
 
 There is a big difference: ecosystems must “learn” unaided by natural selection because it only favours fit individuals, not fit communities. Computer scientists have a way to model such “unsupervised” learning. Instead of guiding an evolving network towards a solution to a given problem, they use a rule that reinforces already common correlations. Such algorithms are known to efficiently discover categories, clusters and regularities in data sets. Working with his Southampton colleague Daniel Power and others, Watson has used them to model learning in the evolution of an ecological network (Biology Direct, vol 10, p 69).
 
+其中有一个很大的区别在于：生态系统的“学习”必须不依仗自然选择。因为自然选择只青睐适应的个体，而不是适应的群体。计算机科学家有一种能模拟这种“无监督”学习的模型。和去引导一个演化中的网络去解决一个既定问题（监督学习，译者注。）不同，他们使用一种方法来增强已存在的普遍关联。
+
 Remarkably, ecosystem networks allowed to evolve in this way retain collective memories – information about ecological interactions that have produced successful structures and behaviours in the past. This could explain why a damaged coral reef can revert to its former composition if left to recover, or why a rainforest can recover from fragmentation.
 
 It also suggests that if an ecosystem faces a challenge it has encountered in the past, it may be more able to recover than in the face of a new challenge. In theory, an ecosystem’s collective memory could be extremely long, because of being etched into the genomes of the organisms that comprise it. An ecosystem that has experienced warming in the past, for example, might be better equipped to cope with global warming now.
