@@ -4,13 +4,13 @@
 
 原文链接：https://www.newscientist.com/article/mg22930660-100-evolution-learn-natural-selection/
 
-译文链接：N/A
+译文链接：https://zhuanlan.zhihu.com/p/36538913/
 
 译者：X-Penguin
 
 接稿日期：N/A
 
-完稿日期：N/A
+完稿日期：05/17/2018
 
-编辑：TBD
+编辑：N/A
 
