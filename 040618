@@ -1,4 +1,6 @@
 Spontaneous solutions
+自发的解决方案
+
 Working with Günter Wagner from Yale University and others, Watson built a model network in which genes can either increase or reduce each other’s activity, as they do in nature. Each network configuration controls how the genes within it interact to give rise to a different phenotype, presented in the form of a pixelated image on a screen. The modellers evolved the network by randomly changing the gene connections, one mutation at a time, and selecting those networks that produced an image with a closer resemblance to one deemed to be the optimal phenotype – a picture of Darwin’s face. Thus guided, the evolving system eventually reproduced this image, at which point the team used the same process to teach it to reproduce Hebb’s face.
 
 与耶鲁大学的金特·瓦格纳（Günter Wagner）一起， 沃森制作了一个基因网络模型，基因可以在其中增强或削弱自身和其他基因的活跃度，就像自然过程中的那样。每个网络的结构控制基因如何相互作用，并由此产生一种不同的表现型。不同的表现型会在屏幕上以马赛克图像的方式表现出来。研究人员通过随机改变基因网络的连接，一次一个突变来让基因网络得到进化。和目标——一张达尔文人像——更接近的基因网络在每一代被作为优胜者挑选出来。如此下去，这个网络模型能够重现达尔文的脸。然后用同样的步骤继续训练这个模型，海布（上文中的Donald Hebb，提出了Hebbian learning）的脸也能够被重现。
